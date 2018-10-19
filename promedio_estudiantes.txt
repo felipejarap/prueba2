@@ -1,0 +1,4 @@
+el promedio del estudiante David es: 3.6 
+el promedio del estudiante Gonzalo es: 4.2 
+el promedio del estudiante Mai es: 7.6 
+el promedio del estudiante JP es: 10.0 
